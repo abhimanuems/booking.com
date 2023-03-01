@@ -1,0 +1,357 @@
+
+body{
+    margin: 0;
+}
+.mainheader{
+    width: 100%;
+    display: flex;
+    flex: 2;
+    margin: 0;
+        background-color: #003580;
+
+}
+
+.hfirst{
+    width: 50%;
+}
+.hfirst h3{
+    color: #fff;
+    text-align: center;
+    font-size: 28px;
+    padding-right: 229px;
+}
+.hsecond{
+    width: 50%;
+    color: #fff;
+    padding-left: 50px;
+
+}
+.hsecond span{
+    padding-bottom: 20px;
+}
+.hsecond img{
+    width: 20px;
+    height: 20px;
+   margin-top: 10px;
+}
+img:hover{
+    background-color:#FCFCFC;
+
+}
+#india{
+   border-color: #fff;
+}
+nav{
+    margin-top: 30px;
+}
+.hsecond img,span{
+    padding-left: 30px;
+}
+#b1{
+    background-color: #003580;
+    border-color: #fff;
+    color: #fff;
+}
+.hsecond button{
+    color: #003580;
+   margin-left: 10px;
+   height: 40px;
+   text-align: center;
+}
+#seconddiv{
+    text-align: center;
+}
+#seconddiv img{
+    width: 129px;
+    height: 63px;
+}
+.thirddiv{
+  background-color: #003580;
+  padding-left: 11%;
+  color: #fff;
+  height: 200px;
+}
+.thirddiv h1{
+   padding-top: 73px;
+    font-size: 53px;
+}
+.thirddiv p{
+    font-size: 26px;
+    margin-top: -28px;
+}
+#input1{
+    background-image: url(location.png);
+    width: 100px;
+    height: 30px;
+}
+.btn1{
+    width: 30%;
+}
+.inputdiv{
+    display: grid;
+    grid-template-columns: 30% 30% 30% 10%;
+    background-color:#003580;
+    padding: 10px;
+    
+}
+.grid{
+        padding: 20px;
+        font-size: 30px;
+        text-align: center;
+    }
+   .iback{
+    background-color: #fff;
+    padding-left: 25px;
+    background: url(image/location.png) left no-repeat;
+    background-size: 20px;
+   }
+   .inputdiv input{
+    margin-top: 10px;
+    background-color: #fff;
+    width: 100%;
+    height: 100%;
+    margin-right: 20px;
+    border: 7px solid #febb02;
+    margin-right: 20px;
+    margin-left: 20px;
+
+   }
+   .inputdiv button{
+    margin-top: 10px;
+    padding-bottom: 10px;
+    background-color: #003580;
+    color: #fff;
+    width: 100%;
+        height: 128%;
+        margin-right: 20px;
+        border: 7px solid #febb02;
+   }
+   .covid{
+    margin-left: 11%;
+    margin-right: 11%;
+   }
+   .covid input{
+    margin-top: 11px;
+   }
+   .fifth{
+    display: flex;
+   }
+   .fifthchild1
+   {
+    width: 50%;
+    float: left;
+   }
+    .fifthchild2 {
+            width: 50%;
+            float: right;
+            padding-left: 200px;
+        }
+        .fifthchild2 a{
+            float:right;
+            padding-right: 0;
+            color: #003580;
+            text-decoration: none;
+        }
+
+  .support{
+    padding-top: 10px;
+    border :solid 1px;
+    margin-right: 10%;
+    margin-top: 10px;
+    padding-left: 10PX;
+  }
+  .grids
+  {
+    display: flex;
+    flex: 4;
+  }
+  .child1{
+    padding-left: 10px;
+    padding-top: 10px;
+  }
+  .child1 h4{
+    font-size: 30px;
+    padding-bottom: 0;
+  }
+  .child1 p{
+    font-size: small;
+  }
+  .p1{
+    color: #6b6b6b;
+    padding-top: 0;
+  }
+  .fithchild1 span{
+    padding-left: 0;
+  }
+  .fifthchild1 a{
+    padding-right: 0;
+  }
+  .insp
+  {
+    display: flex;
+    flex:4;
+    padding-left: 0;
+    margin-left: 8%;
+  }
+  .child2 img{
+    padding-top: 15px;
+    width: 300px;
+    height: 250px;
+    padding-right: 100px;
+  }
+  .imgsmall{
+    height: 240px;
+    width: 360px;
+  }
+  .image-container img{
+    padding-left: 0;
+  }
+  figcaption{
+  padding-bottom: 10px;
+  }
+.child1{
+    padding-left: 10px;
+    padding-top: 10px;
+}
+   
+.image-container {
+    position: relative;
+}
+
+.image-container img {
+    width: 500px;
+    height: 300px;
+    display: block;
+    position: relative;
+    padding-left: 0;
+}
+
+.image-container figcaption {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: #fff;
+    text-align: left;
+}
+
+.firstcaption{
+padding-left: 0;
+margin-left: 0;
+font-size: 29px;
+
+}
+.secondcaption{
+      padding-left: 0;
+    margin-left: 0;
+}
+.fithchild1 span{
+    font-size: 20px;
+}
+.secondlast
+{
+    display: flex;
+
+}
+img2{
+   
+    margin-right: 10%;
+}
+#image2{
+    padding-left: 120px;
+}
+
+.flex1 img{
+    width: 90%;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.footer{
+    display: flex;
+}
+.footer ul{
+    list-style: none;
+}
+.footer a{
+    text-decoration: none;
+    color: #003580;
+}
+.prop1 h6,p{
+ padding-top: 0;
+ margin-top: 0; 
+}
+.prop1 p{
+    margin-top: -40px;
+    color: #6b6b6b;
+    font-size: small;
+}
+.review{
+    padding-left: 0; background-color: blue; color:wheat;
+}
+.imageheading{
+    position: absolute;
+}
+.imageheading h6{
+    padding-left: 10px;
+    text-align: center;
+    font-size: 30px;
+   margin-top: 0;
+
+}
+
+.footer1{
+    background-color: #003580;
+}
+.footer1 button{
+    margin-left: 45%;
+    background-color: #003580;
+    color: #fff;
+    border-color: #fff;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+.alast{
+    margin-left: 10%;
+}
+.footer1 a{
+    color: #fff;
+    padding-right: 20px;
+    margin-bottom: 20px;
+}
+.footer{
+    background-color: #fff;
+    color: #003580;
+  
+}
+.footer a,li{
+    padding-right: 30px;
+    padding-bottom: 10px;
+}
+.final button{
+    margin-left: 40%;
+    color: #003580;
+    background-color: #fff;
+    border:0;
+    cursor: pointer;
+}
+.imgrid{
+    margin-left: 30%;
+   
+}
+.imgrid img{
+    padding-right: 20px;
+}
+.fig{
+    position: absolute;
+    top: 238%;
+    left: 58%;
+}
+.fig h6{
+    font-size: 25px;
+}
+
+.img2 img{
+    margin-top: -16px;
+
+}
